@@ -1,11 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to wowhacker.github.io
 
 You can use the [editor on GitHub](https://github.com/Wowhackers/wowhackers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-![meadow picture](https://preview.ibb.co/e7cvHS/meadow_811339_1280.jpg)
-
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
