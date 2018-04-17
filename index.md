@@ -18,7 +18,7 @@ Syntax highlighted code block
 ### Header 3
 
 ![meadow picture](https://preview.ibb.co/e7cvHS/meadow_811339_1280.jpg)
-Format: ![Alt Text](url)
+
 
 - Bulleted
 - List
