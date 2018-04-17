@@ -1,6 +1,7 @@
-## Welcome to wowhacker.github.io
+## Welcome to wowhacker
 
 You can use the [editor on GitHub](https://github.com/Wowhackers/wowhackers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![meadow picture](https://preview.ibb.co/e7cvHS/meadow_811339_1280.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -12,8 +13,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-![meadow picture](https://preview.ibb.co/e7cvHS/meadow_811339_1280.jpg)
 
+![meadow picture](https://preview.ibb.co/e7cvHS/meadow_811339_1280.jpg)
+Format: ![Alt Text](url)
 
 - Bulleted
 - List
