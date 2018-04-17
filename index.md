@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Wowhackers/wowhackers.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ![meadow picture](https://preview.ibb.co/e7cvHS/meadow_811339_1280.jpg)
-Format: ![Alt Text](url)
+
 
 ### Markdown
 
