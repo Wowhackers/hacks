@@ -1,0 +1,1 @@
+git archive --format=tar --prefix=junk/ HEAD | (cd /var/tmp/ && tar xf -)
