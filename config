@@ -8,3 +8,9 @@ echo "${WS}your whitespace color or blue reverse${RESET}"
 [http "https://home.purehub.ga"]
 	sslVerify = false
 	cookieFile = /tmp/cookie.txt
+[instaweb]
+	local = true
+	httpd = apache2 -f
+	port = 4321
+	browser = konqueror
+	modulePath = /usr/lib/apache2/modules
