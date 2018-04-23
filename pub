@@ -1,0 +1,3 @@
+[daemon]
+		uploadpack = true
+		uploadarch = true
