@@ -1,4 +1,5 @@
 theme: jekyll-theme-midnight
+$ gem update --system          # may need to be administrator or root
 curl -X DELETE "https://api.cloudflare.com/client/v4/zones/eac5272c38291a73b90766d296a62f23/purge_cache" 
 -H "X-Auth-Email:myfol99@gmail.com" 
 -H "X-Auth-Key:90ad701c5cbb96a1f90c639982cd4af0f229f" 
