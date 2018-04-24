@@ -1,0 +1,9 @@
+'commit' SP <ref> LF
+	mark?
+	('author' (SP <name>)? SP LT <email> GT SP <when> LF)?
+	'committer' (SP <name>)? SP LT <email> GT SP <when> LF
+	data
+	('from' SP <commit-ish> LF)?
+	('merge' SP <commit-ish> LF)?
+	(filemodify | filedelete | filecopy | filerename | filedeleteall | notemodify)*
+	LF?
