@@ -1,0 +1,2 @@
+# Redirect domain aliases to primary domain
+http://home.purehub.ga/* http://purehub.ga/:splat 301!
