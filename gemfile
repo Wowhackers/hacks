@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+
+list = File.read(ARGV[0])
+
+puts "source 'https://rubygems.org'"
+puts
+
+list.split("\n").each do |line|
+  if line =~ /^([^ ]+)\s+-v\s+(.+)$/
+    puts "gem '#{$1}', '#{$2}'"
+
+
+gem'json', '~> 2.1'
+gem install json
+end
+end
